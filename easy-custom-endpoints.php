@@ -9,7 +9,7 @@ Version: 0.1
 Author URI: http://matgargano.com
 */
 
-class Custom_endpoint {
+class Custom_Endpoint {
 	protected $custom_endpoint;
 	protected $template; 
 	protected $query_variables;
